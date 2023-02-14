@@ -1,0 +1,9 @@
+# ninja log v5
+0	352	6980990066619696	CMakeFiles/simpleCalculator.dir/main.cpp.obj	fcf3dc464018b384
+354	529	6980990068330654	simpleCalculator.exe	856037053ff609b6
+3	313	6980990347156845	CMakeFiles/simpleCalculator.dir/main.cpp.obj	fcf3dc464018b384
+313	457	6980990348532041	simpleCalculator.exe	856037053ff609b6
+3	304	6980990663028065	CMakeFiles/simpleCalculator.dir/main.cpp.obj	fcf3dc464018b384
+304	469	6980990664617590	simpleCalculator.exe	856037053ff609b6
+3	339	6980991583119350	CMakeFiles/simpleCalculator.dir/main.cpp.obj	fcf3dc464018b384
+339	495	6980991584607133	simpleCalculator.exe	856037053ff609b6
